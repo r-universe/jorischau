@@ -1,9 +1,5 @@
 [
   {
-    "package": "gslnls",
-    "oncran": true
-  },
-  {
     "package": "pdSpecEst",
     "oncran": true
   },
